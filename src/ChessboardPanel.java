@@ -1,5 +1,5 @@
 public class ChessboardPanel  {
-    //This is the Backend Solution of the N queens
+    //This is the Backend Solution of the 8 queens
     public boolean solvePuzzle(int[][] positions) {
         return validRow(positions) && validCol(positions) && validDiagonal(positions);
     }
