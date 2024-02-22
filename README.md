@@ -4,6 +4,8 @@ graphic Java implementation of the famous 8 Queens Chess puzzle
 ## Description
 This Java application solves the 8 Queens Puzzle, a classic problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other. The project provides an interactive GUI for the puzzle.
 
+<img src='https://github.com/notprowler/8-queens-puzzle/blob/main/8-Queens-Puzzle.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
+
 ## Libraries and Frameworks
 
 - **Java:** The core programming language used for the application.
